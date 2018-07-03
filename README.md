@@ -12,7 +12,7 @@ There are no readings for this course. Any background information you need will 
 
 Section | Time
 ------- | ----
-Introduction                    | Thursday, 13:30-15:30
+[Introduction](https://github.com/alexhanna/zurich-sna/blob/master/Introduction%20to%20Social%20Network%20Analysis.ipynb) | Thursday, 13:30-15:30
 Network Visualization I         | Thursday, 15:30-17:30
 Network Visualization II        | Friday, 09:00-11:00
 Network and node-level metrics  | Friday, 11:00-12:30
