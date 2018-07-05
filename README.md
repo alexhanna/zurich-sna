@@ -10,12 +10,14 @@ Social network analysis is a body of methods for analyzing the structure of soci
 
 There are no readings for this course. Any background information you need will be covered in the workshop.
 
+This is a rough schedule for the course. It's very possible one topic will bleed into the next, and we may not get to all the material.
+
 Section | Time
 ------- | ----
-[Introduction](https://github.com/alexhanna/zurich-sna/blob/master/Introduction%20to%20Social%20Network%20Analysis.ipynb) | Thursday, 13:30-17:30
+[Introduction to Social Network Analysis](https://github.com/alexhanna/zurich-sna/blob/master/Introduction%20to%20Social%20Network%20Analysis.ipynb) | Thursday, 13:30-17:30
 [Network Visualization](https://github.com/alexhanna/zurich-sna/blob/master/Network%20Visualization.ipynb) | Friday, 09:00-12:30
-Network, group-level, and node-level metrics  | Friday, 13:30-15:30
-Statistical Inference           | Friday, 15:30-17:30
+Network Metrics and Algorithms | Friday, 13:30-15:30
+Statistical Inference | Friday, 15:30-17:30
 
 ### A word on pedagogy
 
