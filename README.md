@@ -28,6 +28,7 @@ I also adopt a few pedagogical practices from the [(Software|Data) Carpentries](
 Research does not work in a vacuum and nor does preparing teaching materials. This is a rough list of materials I used in preparing this workshop. Some of these links are embedded in the text, but otherwise they are here.
 
 - [statnet documentation](https://www.jstatsoft.org/article/view/v024i01)
+- [igraph R documentation](http://igraph.org/r/doc/)
 - [Bruce DesMarias polnet 2018 tutorial](https://github.com/desmarais-lab/polnet_tutorial)
 - [François Briatte's massive network analysis list](https://github.com/briatte/awesome-network-analysis)
 - [Katya Ognyanova polnet 2018 tutorial](http://kateto.net/network-visualization)
@@ -36,5 +37,6 @@ Research does not work in a vacuum and nor does preparing teaching materials. Th
 - [Patterns in the Ivy: The Small World of Metal](http://badhessian.org/2013/09/patterns-in-the-ivy-the-small-world-of-metal/)
 - [Fowler et al. US Cosponsorship data](http://jhfowler.ucsd.edu/cosponsorship.htm)
 - [Networks in Historical Research](http://www.themacroscope.org/?page_id=308)
+- [statnet ERGM tutorial](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html)
 
 The workshops themselves were prepared using Jupyter Notebooks and the [IRKernel](https://irkernel.github.io/). 
