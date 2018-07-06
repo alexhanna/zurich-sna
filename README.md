@@ -16,7 +16,7 @@ Section | Time
 ------- | ----
 [Introduction to Social Network Analysis](https://github.com/alexhanna/zurich-sna/blob/master/Introduction%20to%20Social%20Network%20Analysis.ipynb) | Thursday, 13:30-17:30
 [Network Visualization](https://github.com/alexhanna/zurich-sna/blob/master/Network%20Visualization.ipynb) | Friday, 09:00-12:30
-Network Metrics and Algorithms | Friday, 13:30-15:30
+[Network Metrics and Algorithms](https://github.com/alexhanna/zurich-sna/blob/master/Network%20metrics%20and%20algorithms.ipynb) | Friday, 13:30-15:30
 Statistical Inference | Friday, 15:30-17:30
 
 ### A word on pedagogy
@@ -34,6 +34,7 @@ Research does not work in a vacuum and nor does preparing teaching materials. Th
 - [Bruce DesMarias polnet 2018 tutorial](https://github.com/desmarais-lab/polnet_tutorial)
 - [François Briatte's massive network analysis list](https://github.com/briatte/awesome-network-analysis)
 - [Katya Ognyanova polnet 2018 tutorial](http://kateto.net/network-visualization)
+- [Katya Ognyanova NetSciX 2016 tutorial](http://kateto.net/networks-r-igraph)
 - [Lessons on exponential random graph modeling from Grey’s Anatomy hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/)
 - [ERGM Tutorial](http://michaellevy.name/blog/ERGM-tutorial/)
 - [Patterns in the Ivy: The Small World of Metal](http://badhessian.org/2013/09/patterns-in-the-ivy-the-small-world-of-metal/)
