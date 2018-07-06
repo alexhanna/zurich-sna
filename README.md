@@ -23,7 +23,7 @@ Section | Time
 
 My methods pedagogy is hands-on in a way that will force you to be working on your own early in the process. It will also mean you will be frequently failing early and often. Luckily, you are in a group of very smart people who are motivated to learn the topic at hand. 
 
-I also adopt a few pedagogical practices from the [(Software|Data) Carpentries](http://carpentries.github.io/instructor-training/) which I'll introduce throughout the course.
+I also adopt a few pedagogical practices from the [(Software|Data) Carpentries](https://software-carpentry.org/workshops/) which I'll introduce throughout the course.
 
 ### Appendices
 
