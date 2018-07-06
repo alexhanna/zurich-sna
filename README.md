@@ -17,7 +17,7 @@ Section | Time
 [Introduction to Social Network Analysis](https://github.com/alexhanna/zurich-sna/blob/master/Introduction%20to%20Social%20Network%20Analysis.ipynb) | Thursday, 13:30-17:30
 [Network Visualization](https://github.com/alexhanna/zurich-sna/blob/master/Network%20Visualization.ipynb) | Friday, 09:00-12:30
 [Network Metrics and Algorithms](https://github.com/alexhanna/zurich-sna/blob/master/Network%20metrics%20and%20algorithms.ipynb) | Friday, 13:30-15:30
-Statistical Inference | Friday, 15:30-17:30
+[Statistical Inference in Networks](https://github.com/alexhanna/zurich-sna/blob/master/Statistical%20Inference%20in%20Networks.ipynb) | Friday, 15:30-17:30
 
 ### A word on pedagogy
 
