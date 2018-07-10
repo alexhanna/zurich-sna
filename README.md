@@ -1,6 +1,6 @@
 # Introduction to Social Network Analysis
 
-## Zurich Summer School in Political Methodology
+## Zurich Summer School for Women in Political Methodology 2018
 
 *July 4-5, 2018*
 
